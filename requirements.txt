@@ -1,0 +1,10 @@
+Список зависимостей:
+import os
+import platform
+import subprocess
+import sys
+import ctypes
+import winreg
+import socket
+import datetime
+from typing import Tuple, Optional
